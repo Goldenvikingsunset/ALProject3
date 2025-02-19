@@ -1,0 +1,31 @@
+{
+  "id": "31715bc6-1c5d-40fb-a779-d14b2aca4132",
+  "name": "Items Others Bought",
+    "publisher": "YourCompanyName",
+    "version": "1.0.0.0",
+    "brief": "Shows items commonly purchased together",
+    "description": "Adds a factbox to sales documents showing items that other customers frequently purchase together with the selected items.",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "",
+    "url": "",
+    "logo": "",
+    "dependencies": [],
+    "screenshots": [],
+    "platform": "1.0.0.0",
+    "application": "25.0.0.0",
+    "idRanges": [
+        {
+            "from": 50090,
+            "to": 50099
+        }
+    ],
+    "features": [
+        "TranslationFile"
+    ],
+    "resourceExposurePolicy": {
+        "allowDebugging": true,
+        "allowDownloadingSource": true,
+        "includeSourceInSymbolFile": true
+    }
+}
